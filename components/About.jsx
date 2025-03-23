@@ -32,7 +32,7 @@ export function About() {
         minus the ones I signed with a non-disclosure agreement.
       </p>
       <br />
-      <button onClick={() => window.open("/NwanumaUgochukwu.pdf", "_blank")} className="rounded-md border border-teal-300 p-2 w-auto hover:text-teal-300">Download my resume</button>
+      <button onClick={() => window.open("/NwanumaUgochukwu.pdf", "_blank")} className="rounded-md border border-teal-300 p-2 w-auto hover:text-teal-300">View my resume</button>
     </div>
   );
 }

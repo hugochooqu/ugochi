@@ -72,6 +72,31 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "Kiwi Bundle",
+      des: "A chrome extension that lets you shop from your favorite stores",
+      img: "/kiwibundle.jpg",
+      iconLists: ["Web development"],
+      link: "https://kiwibundle.com/",
+    },
+    {
+      id: 2,
+      title: "Worldsmith construction",
+      des: "A Portfolio site and landing page for worldsmith construction showcasing core features of the company",
+      img: "/worldsmith.jpg",
+      iconLists: ["Web development"],
+
+      link: "https://worldsmithconstruct.com/",
+    },
+    {
+      id: 3,
+      title: "Ablng",
+      des: "A company website for a solar installation organisation that is based in Lagos, Nigeria",
+      img: "/abl.jpg",
+      iconLists: ["Web development"],
+      link: "https://ablng.com/",
+    },
+    {
+      id: 4,
       title: "Coinz",
       des: "Transfer Ethereum through the ethereum blockchain with ease while saving transactions on the blockchain",
       img: "/coinz4.jpg",
@@ -79,7 +104,7 @@ export const navItems = [
       link: "https://coinz-kappa.vercel.app/",
     },
     {
-      id: 2,
+      id: 5,
       title: "Crownn",
       des: "A sinple e-commerce site with stripe payment integration",
       img: "/crowwn.jpg",
@@ -87,7 +112,7 @@ export const navItems = [
       link: "https://crownn-shop.vercel.app/",
     },
     {
-      id: 3,
+      id: 6,
       title: "Keep",
       des: "A storage solution for you",
       img: "/keep.jpg",
@@ -95,7 +120,7 @@ export const navItems = [
       link: "https://keep-lemon-two.vercel.app/",
     },
     {
-      id: 4,
+      id: 7,
       title: "Currency Converter",
       des: "A mininalistic exchange site that converts over a hundred of the world's currencies using real-time rates.",
       img: "/curr.jpg",

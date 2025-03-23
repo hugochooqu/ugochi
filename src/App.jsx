@@ -81,7 +81,7 @@ const App = () => {
         <section id="projects-section" className="h-auto lg:min-h-screen flex items-center">
           <RecentProjects />
         </section>
-        <p className=" p-12 md:p-20">UI developed with inspiration from <a href="https://brittanychang.com/" target="_blank" className="text-teal-400">brittanychang.com</a></p>
+        <p className=" p-12 md:p-20">UI developed with inspiration from <a href="https://brittanychiang.com/" target="_blank" className="text-teal-400">brittanychang.com</a></p>
       </div>
     </main>
   );
